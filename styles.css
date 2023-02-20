@@ -1,0 +1,98 @@
+html {
+
+}
+
+
+
+body {
+	font-size: 30px;
+}
+
+h1, h2 {
+  font-family: 'Caveat', cursive;
+  font-weight: 250;
+}
+h1 {
+  font-size: 80px;
+}
+h2 {
+  font-size: 40px;
+  margin-top: 0;
+  text-align: center;
+  border: bold;
+}
+
+a {
+  color: blue;
+}
+.content-wrap {
+  max-width: 950px;
+  margin: 0 auto;
+  padding: 20px;
+}
+ 
+ h2 {
+
+}
+h3 {
+
+}
+
+header, footer {
+
+}
+
+header {
+	background-color: grey;
+}
+header h1, header h2 {
+	margin: 0px;
+}
+
+}
+.download {
+
+}
+
+footer {
+	background-color: grey;
+}
+.contact-info a {
+}
+
+
+/* Navigation
+-------------------------*/
+nav {
+	margin: 0px;
+	padding-top: 0px;
+	
+}
+
+nav a{
+	 display: block;
+	 padding: 10px;
+ }
+
+
+@media (min-width: 1000px) {
+	.content-wrap {
+  max-width: 950px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+@media (max-width: 900px) {
+
+h1 {
+  font-size: 60px;
+}
+h2 {
+  font-size: 30px;
+  margin-top: 0;
+  text-align: left;
+ 
+}
+	
+		
+	
